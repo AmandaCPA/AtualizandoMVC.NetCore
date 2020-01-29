@@ -20511,6 +20511,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ACPA\\Desktop\\Códigos.NETCore\\AspCore\\Views\\Funcionarios\\Cadastrar.cshtml",
+      "TargetPath": "Views\\Funcionarios\\Cadastrar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ACPA\\Desktop\\Códigos.NETCore\\AspCore\\Views\\Admin\\nada.cshtml",
       "TargetPath": "Views\\Admin\\nada.cshtml",
       "FileKind": "mvc"

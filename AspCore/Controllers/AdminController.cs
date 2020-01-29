@@ -16,6 +16,7 @@ namespace AspCore.Controllers
         }
 
         [HttpGet("son")]
+        
         public IActionResult schoolOfNet()
         {
             var nome = Request.Query["nome"];
