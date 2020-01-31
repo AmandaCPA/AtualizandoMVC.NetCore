@@ -57,3 +57,4 @@ C:\Users\ACPA\Desktop\Códigos.NETCore\AspCore\bin\Debug\netcoreapp3.1\Newtonsof
 C:\Users\ACPA\Desktop\Códigos.NETCore\AspCore\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\ACPA\Desktop\Códigos.NETCore\AspCore\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
 C:\Users\ACPA\Desktop\Códigos.NETCore\AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Funcionarios\Cadastrar.cshtml.g.cs
+C:\Users\ACPA\Desktop\Códigos.NETCore\AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Funcionarios\Index.cshtml.g.cs

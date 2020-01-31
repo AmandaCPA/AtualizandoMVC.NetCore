@@ -20531,6 +20531,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ACPA\\Desktop\\Códigos.NETCore\\AspCore\\Views\\Funcionarios\\Index.cshtml",
+      "TargetPath": "Views\\Funcionarios\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ACPA\\Desktop\\Códigos.NETCore\\AspCore\\Views\\Admin\\visualizar.cshtml",
       "TargetPath": "Views\\Admin\\visualizar.cshtml",
       "FileKind": "mvc"
