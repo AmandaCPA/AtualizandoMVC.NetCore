@@ -30,11 +30,23 @@ namespace Autenticacao
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseMySql(
                     Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddDefaultIdentity<IdentityUser>(config => 
+            {
+                config.Password.RequireNonAlphanumeric = false;
+                config.Password.RequireUppercase = false;
+                config.Password.RequireLowercase = false;
+                //configurando requerimentos de senha 
+            }
+            ).AddEntityFrameworkStores<ApplicationDbContext>();
+            
+            
             services.AddControllersWithViews();
-           services.AddRazorPages();
+            services.AddRazorPages();
+
+           services.AddAuthorization(options => options.AddPolicy("TemNome", policy => policy.RequireClaim("FullName", "Amanda Azevedo")));
         }
 
+        
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {

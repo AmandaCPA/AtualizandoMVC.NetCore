@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Autenticacao.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20200203224559_CreateIdentitySchema")]
+    [Migration("20200204174306_CreateIdentitySchema")]
     partial class CreateIdentitySchema
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

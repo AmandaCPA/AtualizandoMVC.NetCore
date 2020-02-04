@@ -159,3 +159,4 @@ C:\Users\ACPA\Desktop\Códigos.NETCore\Autenticacao\obj\Debug\netcoreapp3.1\Razo
 C:\Users\ACPA\Desktop\Códigos.NETCore\Autenticacao\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\ACPA\Desktop\Códigos.NETCore\Autenticacao\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\ACPA\Desktop\Códigos.NETCore\Autenticacao\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ACPA\Desktop\Códigos.NETCore\Autenticacao\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
